@@ -1,0 +1,54 @@
+@media screen and (max-width: 720px) and (max-height: 1520px) {
+    
+    .HospitalName1{
+        margin-left: 8px;
+        margin-top:20px;
+        margin-bottom: 20px;
+        margin: 20;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    right:20%;
+    -ms-transform: translateY(-10%);
+    transform: translateY(-10%);
+    }
+
+    .HospitalName2{
+        margin-left: 8px;
+        margin-top:20px;
+        margin-bottom: 20px;
+        margin: 20;
+        position: absolute;
+        top: 40%;
+        left: 20%;
+        right:20%;
+        -ms-transform: translateY(-40%);
+        transform: translateY(-40%);
+        }
+
+        .HospitalName3{
+            margin-left: 8px;
+            margin-top:20px;
+            margin-bottom: 20px;
+            margin: 20;
+            position: absolute;
+            top: 70%;
+            left: 20%;
+            right:20%;
+            -ms-transform: translateY(-70%);
+            transform: translateY(-70%);
+            }
+
+            .ButtonMine {
+                display: block;
+                width: 100%;
+                border: none;
+                background-color: rgb(66, 35, 206);
+                padding: 14px 28px;
+                font-size: 16px;
+                cursor: pointer;
+                text-align: center;
+              }
+}
+
+
