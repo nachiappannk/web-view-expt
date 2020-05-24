@@ -21,8 +21,8 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.RUN_PROJECT }}
-  RUN_REGION: us-central1
-  SERVICE_NAME: helloworld-nodejs
+  RUN_REGION: europe-west4
+  SERVICE_NAME: home-page
 
 jobs:
   setup-build-deploy:
