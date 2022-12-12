@@ -23,7 +23,7 @@
     "@angular/router": "~9.0.3",
     "@material/icon-button": "^6.0.0",
     "angular-material": "^1.1.22",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.1-security",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
